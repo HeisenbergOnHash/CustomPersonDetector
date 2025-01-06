@@ -1,10 +1,4 @@
 
-
-# # Example usage
-# # folder_path = '/Users/heisenberg/Desktop/AI_Detector/trainer/data/chaithu'
-# # rename_images_in_folder(folder_path)
-
-
 from predictor.predictor import predict_image
 from trainer.modelmaker import modelmaker
 import os,cv2
